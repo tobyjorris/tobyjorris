@@ -5,4 +5,4 @@
 - 💬 Ask me about ... dogs :dog:
 - 📫 How to reach me: ... tobyjorris@gmail.com
 
-![profile photo](/photo-test.jpg)
+![profile photo](https://github.com/tobyjorris/tobyjorris/blob/master/photo-test.jpg?raw=true)
