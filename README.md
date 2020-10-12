@@ -1,5 +1,5 @@
--I’m currently working on ... learning Redux                                                         
--I’m currently learning ... unit testing with Jest                                                                
+-I’m currently working on ... implementing saved history into gccmealplanner.com                                                         
+-I’m currently learning ... Redux                                                               
 -I’m looking to collaborate on ... unique front end projects  
 -I’m looking for help with ... fraction conversions in JS  
 -Ask me about ... dogs :dog:
