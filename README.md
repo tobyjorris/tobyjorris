@@ -1,4 +1,4 @@
--I’m currently working on ... Meland Realty & Housing Market API's                                                 
+-I’m currently working on ... Appealmaker.com for Bliss Direct Media                                               
 -I’m currently learning ... PHP                                                              
 -I’m looking to collaborate on ... unique front end projects  
 -I’m looking for help with ... fraction conversions in JS  
